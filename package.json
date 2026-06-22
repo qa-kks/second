@@ -1,0 +1,10 @@
+{
+  "name": "second",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"npm test success\"",
+    "start": "echo \"npm start success\""
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
